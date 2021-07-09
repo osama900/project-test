@@ -10,7 +10,7 @@
 #devName {
   color: black;
 }
-#rowOneImages {
+.rowOneImages {
   text-align: center;
 }
 .flip-card {
